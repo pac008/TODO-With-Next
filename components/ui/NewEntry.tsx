@@ -1,6 +1,6 @@
 import { useState, ChangeEvent, useContext } from "react";
 import { Box, Button, TextField } from "@mui/material";
-import SaveoutlinedIcon from "@mui/icons-material/Saveoutlined";
+import SaveoutlinedIcon from "@mui/icons-material/SaveOutlined";
 import AddCircleOutlineOutlinedIcon from "@mui/icons-material/AddCircleOutlineOutlined";
 import { EntriesContext } from "../../context/entries/EntriesContext";
 import { UIContext } from "../../context/ui/UIContext";

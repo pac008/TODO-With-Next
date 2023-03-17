@@ -16,7 +16,7 @@ import {
   capitalize,
   IconButton,
 } from "@mui/material";
-import SaveOutlinedIcon from "@mui/icons-material/Saveoutlined";
+import SaveOutlinedIcon from "@mui/icons-material/SaveOutlined";
 import DeleteOutlinedIcon from "@mui/icons-material/Deleteoutlined";
 import { Layout } from "@/components/layouts";
 import { EntryStatus, Entry } from "../../interfaces/entry";
