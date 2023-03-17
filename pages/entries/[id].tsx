@@ -17,7 +17,7 @@ import {
   IconButton,
 } from "@mui/material";
 import SaveOutlinedIcon from "@mui/icons-material/SaveOutlined";
-import DeleteOutlinedIcon from "@mui/icons-material/Deleteoutlined";
+import DeleteOutlinedIcon from "@mui/icons-material/DeleteOutlined";
 import { Layout } from "@/components/layouts";
 import { EntryStatus, Entry } from "../../interfaces/entry";
 import { getEntryById } from "@/db";
